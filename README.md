@@ -1,4 +1,4 @@
-# IT-Help-Desk-Simulation
+# IT Help Desk Simulation
 
 **Short Summary:**  
 A hands-on training guide and virtual lab demonstrating **Active Directory (AD DS), Group Policy, CMD troubleshooting, remote support tools, and ticketing workflows** — designed for entry-level helpdesk practitioners to build practical skills and clear interview talking points.
